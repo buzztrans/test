@@ -1,3 +1,3 @@
 TextDecoderStream
 hello word
-Script work
+Script working
