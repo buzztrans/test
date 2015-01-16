@@ -1,1 +1,2 @@
 TextDecoderStream
+hello word
