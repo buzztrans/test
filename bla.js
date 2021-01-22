@@ -1,2 +1,3 @@
 TextDecoderStream
 hello word
+Script work
